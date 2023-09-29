@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Attack" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABBAAQAAAAAAAAIEAEAAAAIAAIAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Attack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Card">
+    <Position X="19.25" Y="3.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Card::cardType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Card.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BABAAABAAICAAAiIAAAKEQAAAQABAAAAAABgAAIEAAA=</HashCode>
+      <FileName>Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cube">
+    <Position X="19.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAADAAAAISARAgAAAAAAAABQQgAAAAQAA=</HashCode>
+      <FileName>Cube.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draft" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABBAAAAEAgEAAAIkQAAAAAAAAMAABAQAAEAAAAAA=</HashCode>
+      <FileName>Draft.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Land">
+    <Position X="17.75" Y="7.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Land::landInfo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Land.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAICAAAAAAAASAAAAAAEAAAAAAgAgAAAAAAA=</HashCode>
+      <FileName>Land.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlaceMap" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABBAAAAAAAAAAAAAAAAAAAAAAAAEACAAAEAAAAAA=</HashCode>
+      <FileName>PlaceMap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlaceTroops" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABBAAAAAAAAAAAAAAAAQAAAAQAAEAAAAAEAAAAAA=</HashCode>
+      <FileName>PlaceTroops.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="11.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAAQABgICAAAAAAAgAAAAAAAAEAADABABkgQgAgiA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerStats">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="PlayerStats::Info&lt;T&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PlayerStats.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAAAAAAAgAAMACAAEACAAAAAAAJAAAAAIgAAI=</HashCode>
+      <FileName>PlayerStats.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerStatWrap">
+    <Position X="13.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAACAAEAAABIAQgIAIAAgA=</HashCode>
+      <FileName>PlayerStatWrap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reinforcement" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEBBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Reinforcement.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEABBABEAAAEDAAAAEAEAEAAAAAIAABAAgAEAAAgAA=</HashCode>
+      <FileName>Stage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector&lt;T&gt;">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="Vector&lt;T&gt;::iterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Vector.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAAECABAAAAAAAIMIAABSAAEAAAIAAEFgAAAAAAA=</HashCode>
+      <FileName>Vector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="statsGuiMain">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQAAAQAAAAEAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>statsGuiMain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="risk">
+    <Position X="14.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAwSRgLCAEDCAAIhgLKQqiAACqAlBAJAIEEKABAA=</HashCode>
+      <FileName>risk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Move">
+    <Position X="22.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAICCAAQEAAAAAEAAQgAAAABAAEAAAAAAABAgAA=</HashCode>
+      <FileName>Move.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mess">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAoAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mess.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="menu">
+    <Position X="17.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AjAAAAAAFAAAEAAAAAAAAAAAKIAAAAAAIIgAEECAAAA=</HashCode>
+      <FileName>menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Country">
+    <Position X="23.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgAgCBAAoCAkAAAAAAAAAAAABIEAAAACAAlgAoAAAA=</HashCode>
+      <FileName>Country.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_menu" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>zyAEAEABCAAAABAAAGkBgIAACKQcICAIQGIAAGAIADA=</HashCode>
+      <FileName>GeneratedFiles\ui_menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_mess_gui" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAIACAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_Mess.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Move" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACAAIAAAAQAAAUAYAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_move.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_my_riskClass" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JMgVBgEIEgEAdBCACKQEiIQSCwcAJADYgCRIAIEABgA=</HashCode>
+      <FileName>GeneratedFiles\ui_my_risk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_statsGui" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABABAAAAAAAAAAAAQIYAAAAAAAAEAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_stats.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::menu" Collapsed="true">
+    <Position X="3.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::mess_gui" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_Mess.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::Move" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_move.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::my_riskClass" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_my_risk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::statsGui" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_stats.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

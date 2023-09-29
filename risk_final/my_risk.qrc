@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>Resources/cubes/1.png</file>
+        <file>Resources/cubes/2.png</file>
+        <file>Resources/cubes/3.png</file>
+        <file>Resources/cubes/4.png</file>
+        <file>Resources/cubes/5.png</file>
+        <file>Resources/cubes/6.png</file>
+        <file>Resources/risk_map.png</file>
+        <file>Resources/minus.png</file>
+        <file>Resources/plus.png</file>
+        <file>Resources/backg.bmp</file>
+        <file>Resources/players/green.png</file>
+        <file>Resources/players/red.png</file>
+        <file>Resources/players/yellow.png</file>
+        <file>Resources/cards/cardCannon.PNG</file>
+        <file>Resources/cards/cardCannonShadow.PNG</file>
+        <file>Resources/cards/cardDefault.PNG</file>
+        <file>Resources/cards/cardHorse.PNG</file>
+        <file>Resources/cards/cardHorseShadow.PNG</file>
+        <file>Resources/cards/cardJoker.PNG</file>
+        <file>Resources/cards/cardJokerShadow.PNG</file>
+        <file>Resources/cards/cardSolider.PNG</file>
+        <file>Resources/cards/cardSoliderShadow.PNG</file>
+        <file>Resources/Risk.mp3</file>
+        <file>Resources/Explosion.wav</file>
+        <file>Resources/golden_horse.jpg</file>
+        <file>Resources/placed.wav</file>
+    </qresource>
+</RCC>
